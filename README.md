@@ -1,4 +1,4 @@
-# Java-Practice
+# Java_Practice
 
 ### 1. study01
 * 변수 선언 방법<br>
